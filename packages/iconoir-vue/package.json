@@ -1,6 +1,6 @@
 {
-  "name": "@iconoir/vue",
-  "version": "6.9.0",
+  "name": "@lc-iconoir/vue",
+  "version": "6.9.1",
   "description": "Vue library for Iconoir icon set",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -46,5 +46,9 @@
     "terser": "^5.17.1",
     "vite": "^4.3.3",
     "vite-plugin-dts": "^2.3.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/iconoir-icons/iconoir/issues"
+  },
+  "author": "Joffrey Berrier"
 }
